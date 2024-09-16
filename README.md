@@ -16,7 +16,15 @@
 
 ## Skills
 
+Charlie:
+Sebastian:
+Helena: Java, Python
+
 ## Roles
+
+Charlie:
+Sebastian:
+Helena: 
 
 ## Accountability
 
