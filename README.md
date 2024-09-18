@@ -18,7 +18,7 @@
 
 Charlie: Java, Python, C++, C Sharp, React \
 Sebastian: Java, C#, Python \
-Helena: Java, Python \
+Helena: Java, Python 
 
 ## Roles
 
