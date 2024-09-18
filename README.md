@@ -32,4 +32,8 @@ Helena:
 
 ## Screenshot
 
+Charlie: \
 ![git screenshot](<Screenshot 2024-09-18 at 1.51.46 PM.png>)
+Helena: \
+![git screenshot](<Screenshot of Terminal - Helena.png>)
+Sebastian: \
