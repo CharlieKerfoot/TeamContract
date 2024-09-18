@@ -42,3 +42,4 @@ Charlie: \
 Helena: \
 ![git screenshot](<Screenshot of Terminal - Helena.png>)
 Sebastian: \
+![git screenshot](<Screenshot_of_terminal.png>)
