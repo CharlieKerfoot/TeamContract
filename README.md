@@ -18,13 +18,13 @@
 
 Charlie:     \
 Sebastian:     \
-Helena: Java, Python\
+Helena: Java, Python
 
 ## Roles
 
 Charlie:    \
 Sebastian:   \
-Helena:    \
+Helena:    
 
 ## Accountability
 
