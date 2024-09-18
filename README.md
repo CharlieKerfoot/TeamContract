@@ -28,6 +28,9 @@ Helena:
 
 ## Accountability
 
+Everyone must complete assignments on time and communicate with their team members if they are unable to meet a deadline. \
+If someone is not available, we can talk to them separately or get Ms. Feng to discuss. Everyone must follow the guidelines of the team contract.
+
 ## Conflicts
 
 ## Screenshot
