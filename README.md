@@ -38,7 +38,7 @@ Team members should not hesistate to bring their own ideas to the group, but do 
 ## Screenshot
 
 Charlie: \
-![git screenshot](<Screenshot 2024-09-18 at 1.51.46 PM.png>)
+![git screenshot](<Charlie Terminal SS.png>)
 Helena: \
 ![git screenshot](<Screenshot of Terminal - Helena.png>)
 Sebastian: \
