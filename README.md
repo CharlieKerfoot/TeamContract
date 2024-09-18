@@ -16,7 +16,7 @@
 
 ## Skills
 
-Charlie:     \
+Charlie: Java, Python, C++, C Sharp, React
 Sebastian:     \
 Helena: Java, Python
 
