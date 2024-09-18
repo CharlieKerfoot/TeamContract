@@ -16,15 +16,15 @@
 
 ## Skills
 
-Charlie:
-Sebastian:
-Helena: Java, Python
+Charlie:     \
+Sebastian:     \
+Helena: Java, Python\
 
 ## Roles
 
-Charlie:
-Sebastian:
-Helena: 
+Charlie:    \
+Sebastian:   \
+Helena:    \
 
 ## Accountability
 
