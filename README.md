@@ -2,7 +2,7 @@
 
 **Charlie Kerfoot, Helena Zhang, Sebastian Baxter**
 
-### Schedule
+## Schedule
 |Period|Day 1|Day 2|Day 3|Day 4|Day 5|Day 6|Day 7|Day 8|Day 9|Day 10|
 |------|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:------:|
 |A     |C    |C    |C    |C    |**H, C** |C    |C    |C    |C    |**H, C**  |
@@ -32,6 +32,8 @@ Everyone must complete assignments on time and communicate with their team membe
 If someone is not available, we can talk to them separately or get Ms. Feng to discuss. Everyone must follow the guidelines of the team contract.
 
 ## Conflicts
+
+Team members should not hesistate to bring their own ideas to the group, but do so in a respectful manner. Active communication and open-mindedness is key to maintaining a good team environment. 
 
 ## Screenshot
 
