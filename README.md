@@ -33,3 +33,4 @@ Helena:
 ## Screenshot
 
 ![git screenshot](<Screenshot 2024-09-18 at 1.51.46 PM.png>)
+![git screenshot](<Screenshot of Terminal - Helena.png>)
