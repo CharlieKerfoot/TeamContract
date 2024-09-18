@@ -16,15 +16,15 @@
 
 ## Skills
 
-Charlie: Java, Python, C++, C Sharp, React \ 
-Sebastian:     \
-Helena: Java, Python
+Charlie: Java, Python, C++, C Sharp, React \
+Sebastian: Java, C#, Python \
+Helena: Java, Python \
 
 ## Roles
 
-Charlie:    \
-Sebastian:   \
-Helena:    
+Charlie: Manager    \
+Sebastian: Presenter  \
+Helena: Note-taker / Quality Control  
 
 ## Accountability
 
@@ -35,4 +35,8 @@ If someone is not available, we can talk to them separately or get Ms. Feng to d
 
 ## Screenshot
 
+Charlie: \
 ![git screenshot](<Screenshot 2024-09-18 at 1.51.46 PM.png>)
+Helena: \
+![git screenshot](<Screenshot of Terminal - Helena.png>)
+Sebastian: \
