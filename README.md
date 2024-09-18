@@ -29,3 +29,7 @@ Helena:
 ## Accountability
 
 ## Conflicts
+
+## Screenshot
+
+![git screenshot](<Screenshot 2024-09-18 at 1.51.46 PM.png>)
