@@ -16,15 +16,15 @@
 
 ## Skills
 
-Charlie: Java, Python, C++, C Sharp, React
-Sebastian: Java, C#, Python
-Helena: Java, Python
+Charlie: Java, Python, C++, C Sharp, React \
+Sebastian: Java, C#, Python \
+Helena: Java, Python \
 
 ## Roles
 
-Charlie:    \
-Sebastian:   \
-Helena:    
+Charlie: Manager    \
+Sebastian: Presenter  \
+Helena: Note-taker / Quality Control  
 
 ## Accountability
 
