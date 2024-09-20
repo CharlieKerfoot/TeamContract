@@ -13,6 +13,8 @@
 |F     |S     |    |**C, S** |    |S     |     |     |**C, S** |     |S     |
 |G     |     |**C, S** |     |**C, S** |     |**C, S** |**C, S** |     |**C, S** |      |
 |H     |     |     |C    |     |     |     |     |C    |     |      |
+/
+Since we do not have any shared frees as a group, we will try to coordinate times after school if needed and also keep in touch through a group chat as opposed to using email only. 
 
 ## Skills
 
