@@ -17,7 +17,7 @@
 #### Coordinating Schedules 
 Since we do not have any shared frees as a group, we will try to coordinate times after or before school if needed and also keep in touch through a group chat as opposed to using email only. 
 
-We will aslo work on using the time we do have together as effectivly as possible by identifying things we can work on independently and managing merge conflcits. Outside of time together we will attempt to complete as much as we can on indpendent pieces of the project to make time together as productive as possible.
+We will also work on using the time we do have together as effectively as possible by identifying things we can work on independently and managing merge conflcits. Outside of time together we will attempt to complete as much as we can on independent pieces of the project to make time together as productive as possible.
 
 ## Skills
 
